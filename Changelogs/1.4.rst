@@ -20,7 +20,7 @@ Changelog 📃 :
     - **Core:** Changed HellBot's core once again for future updates.
      *In future:* Assistant, Voice Chat Player, and many more.
     - **Custom Plugins Repo:** You can now choose your own plugins repo. Add an environment variable ``GIT_REPO`` with your repo name as value.
-     *For Example:* ``GIT_REPO`` = ``HellBoy-OP/Plugins``
+     *For Example:* ``GIT_REPO`` = ``SHIVANSH474/Plugins-``
 * **Bugs Fixes:**
     - **Remove BG:** ``.rmbg`` command was not uploading output image.
      Now it is fixed and improved for better use.
@@ -49,10 +49,10 @@ Changelog 📃 :
     - **waifu:** This plugin contains both NSFW & SFW content.
 
 
-Report Bugs and Suggestions in comments of `this post <https://t.me/its_hellbot/66>`_
+Report Bugs and Suggestions in comments of `this post <https://t.me/STRANGERHELLBOT/2>`_
 =====================================================================================
 
-:Regards: * `@ForGo10God <https://t.me/forgo10god>`_
+:Regards: * `@SHIVANSH39 <https://t.me/SHIVANSH39>`_
 
-By ~ `Hêllẞø† Network { 🇮🇳 } <https://t.me/hellbot_network>`_
+By ~ `sᴛʀᴀɴɢᴇʀ ʜᴇʟʟʙᴏᴛ ɴᴇᴛᴡᴏʀᴋ { 🇮🇳 } <https://t.me/hellbot_network>`_
 =================================================
